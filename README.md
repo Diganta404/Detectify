@@ -149,9 +149,6 @@ python -m app.utils.train_models
    - The model identifies patterns typical of AI-generated audio
    - A final prediction is made based on the detected patterns
 
-## Security Note
-
-This application is for demonstration purposes. For production use, implement additional security measures and API rate limiting.
 
 ## Troubleshooting
 
